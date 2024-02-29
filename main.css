@@ -1,0 +1,69 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 30px;
+}
+
+form {
+  margin-bottom: 10px;
+  padding: 20px;
+  border: 1px solid silver;
+  border-radius: .25rem;
+
+}
+
+.float-right {
+  float: right;
+}
+
+.btn-primary {
+  width: 100%;
+  background-color: orange;
+  color: black;
+}
+
+.btn:hover {
+  opacity: 1;
+  background-color: darkorange;
+  border: 1px solid black;
+  color: black;
+}
+
+.btn-secondary {
+  width: 100%;
+  background-color: lightgrey;
+  color: black;
+}
+
+.bt:hover {
+  opacity: 1;
+  background-color: silver;
+  color: black;
+}
+
+.bt {
+  line-height: 1.5;
+  border-radius: .25rem;
+  border: 1px solid darkgrey;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+}
+
+.btn {
+  border: 1px solid black;
+}
+
+.padding {
+  padding-top: 20px;
+}
+
+.card {
+  border: transparent;
+}
+
+img {
+  height: auto;
+  width: 150px;
+}
